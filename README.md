@@ -1,4 +1,4 @@
-# mona_lisa_GA
+# Mona Lisa Genetic Algorithm
 
 | Target Image  | Result after<br />11030<br />generations |
 | ------------- | ------------- |
